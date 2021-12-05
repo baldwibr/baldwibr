@@ -6,3 +6,7 @@ using only a terrain map and an elevation sensor.  We will encounter some of the
 difficult: noisy sensor data, and imprecise movement. </n>
 
 I have tackled these challenges using an artificial intelligence technique called a *particle filter*.
+
+When executing the Python file, use only the **LEFT**, **RIGHT**, and **UP** arrows on your keyboard. 
+
+*Note: This code was written for Windows key commands*
